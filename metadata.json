@@ -1,0 +1,6 @@
+{
+  "name": "Globus Ob-Havo & Dunyo Vaqti",
+  "description": "Interaktiv 3D globus orqali dunyoning istalgan hududida real vaqt ob-havosi, jahon soati, o'tmish tahlili va kelajak bashorati tizimi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
